@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="DNG Coin Banner" width="800">
+</p>
+
 # DNG Coin (DNG)
 
 An ERC-20 token deployed on **Sepolia Testnet** as part of my Web3 learning and portfolio showcase.  
